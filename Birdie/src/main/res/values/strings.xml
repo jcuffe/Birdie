@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birdie</string>
+    <string name="nav_drawer_title">Navigation</string>
+    <string name="title_play_fragment">Play</string>
+    <string name="title_review_fragment">Review</string>
+    <string name="play_course">Course</string>
+    <string name="play_hole">Hole</string>
+    <string name="play_players">Players</string>
+    <string name="play_score">Score</string>
+    <string name="play_next_hole">Next Hole</string>
+    <string name="play_prev_hole">Previous Hole</string>
+    <string name="play_dialog_add_player_title">Enter player name</string>
+    <string name="play_dialog_enter_course_title">Enter course name</string>
+    <string name="play_dialog_set_owner_title">Enter your name</string>
+    <string name="play_dialog_complete_game_title">Finish this game?</string>
+    <string name="play_dialog_ok">OK</string>
+    <string name="play_dialog_cancel">Cancel</string>
+    <string name="game_review_date">Date Played</string>
+    <string name="review_course">Course</string>
+    <string name="review_players"># Players</string>
+    <string name="detail_player_name">Name</string>
+    <string name="detail_player_total">Total Score</string>
+    <string name="detail_scores">Scores</string>
+    <string name="title_activity_game_detail_fragment">GameDetail</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

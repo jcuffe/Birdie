@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/drop_shadow">
+
+    <TextView
+        android:id="@+id/detail_player_name_label"
+        style="@style/sectionHeader"
+        android:text="@string/detail_player_name"/>
+
+    <TextView
+        android:id="@+id/detail_player_name"
+        style="@style/StaticText"
+        android:layout_below="@id/detail_player_name_label"/>
+
+    <TextView
+        android:id="@+id/detail_player_total_label"
+        style="@style/sectionHeader"
+        android:text="@string/detail_player_total"
+        android:gravity="right"/>
+
+    <TextView
+        android:id="@+id/detail_player_total"
+        style="@style/StaticText"
+        android:layout_below="@id/detail_player_total_label"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        style="@style/sectionHeader"
+        android:text="@string/detail_scores"
+        android:id="@+id/detail_player_scores_label"
+        android:layout_above="@+id/detail_score_grid"/>
+
+    <GridView
+        android:id="@+id/detail_score_grid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/play_course_label"
+        style="@style/sectionHeader"
+        android:text="@string/play_course" />
+
+    <TextView
+        android:id="@+id/play_course"
+        style="@style/StaticText"
+        android:layout_below="@+id/play_course_label"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/play_hole_label"
+        style="@style/sectionHeader"
+        android:text="@string/play_hole"
+        android:gravity="right" />
+
+    <TextView
+        android:id="@+id/play_hole"
+        style="@style/StaticText"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/play_hole_label" />
+
+    <TextView
+        android:id="@+id/play_players_label"
+        style="@style/sectionHeader"
+        android:text="@string/play_players"
+        android:layout_below="@+id/play_course" />
+
+    <TextView
+        android:id="@+id/play_score_label"
+        style="@style/sectionHeader"
+        android:text="@string/play_score"
+        android:layout_below="@+id/play_hole"
+        android:gravity="right"/>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@android:id/list"
+        android:layout_above="@+id/play_button_layout"
+        android:layout_below="@+id/play_players_label"/>
+
+    <LinearLayout
+        android:id="@+id/play_button_layout"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true" >
+
+        <Button
+            android:id="@+id/play_prev_hole"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/play_prev_hole"
+            android:onClick="prevHole"/>
+
+        <Button
+            android:id="@+id/play_next_hole"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/play_next_hole"
+            android:onClick="nextHole"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/jared/workspace/Birdie/Birdie/src/main/res/layout/fragment_play.xml -->

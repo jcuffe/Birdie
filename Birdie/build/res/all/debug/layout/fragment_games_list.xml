@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/review_course_label"
+        android:text="@string/review_course"
+        style="@style/sectionHeader" />
+
+    <TextView
+        android:id="@+id/review_players_label"
+        android:text="@string/review_players"
+        style="@style/sectionHeader"
+        android:gravity="right" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@android:id/list"
+        android:layout_below="@id/review_course_label" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/jared/workspace/Birdie/Birdie/src/main/res/layout/fragment_games_list.xml -->

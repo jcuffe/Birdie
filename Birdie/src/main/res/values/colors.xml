@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emphasis">#33b5e5</color>
+    <color name="bg_gray">#cecbce</color>
+    <color name="transparent">#00000000</color>
+    <color name="score_ace">#cc0099cc</color>
+    <color name="score_birdie">#990099cc</color>
+    <color name="score_par">#660099cc</color>
+    <color name="score_bogey">#330099cc</color>
+</resources>

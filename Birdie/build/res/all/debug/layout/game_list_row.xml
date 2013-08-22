@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:id="@+id/game_row_course"
+        style="@style/BirdieText"
+        android:layout_marginLeft="16dp"/>
+
+    <TextView
+        android:id="@+id/game_row_date"
+        style="@style/BirdieText"
+        android:textSize="10dp"
+        android:layout_marginLeft="16dp"
+        android:layout_below="@id/game_row_course" />
+
+    <TextView
+        android:id="@+id/game_row_players"
+        style="@style/BirdieText"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="16dp"
+        android:layout_centerVertical="true"
+        android:gravity="center"/>
+
+</RelativeLayout><!-- From: file:/C:/Users/jared/workspace/Birdie/Birdie/src/main/res/layout/game_list_row.xml -->

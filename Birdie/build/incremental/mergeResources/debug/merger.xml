@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res" >
+            <file
+                name="slide_in_right"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\anim\slide_in_right.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="score_button"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\color\score_button.xml"
+                qualifiers=""
+                type="color" />
+            <file
+                name="ab_background_textured_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\ab_background_textured_birdie.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="drop_shadow"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\drop_shadow.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="score_button"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\score_button.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="score_button_default"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\score_button_default.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="score_button_pressed"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\score_button_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="section_header"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable\section_header.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ab_solid_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\ab_solid_birdie.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\ab_texture_tile_birdie.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="add_player"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\add_player.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="complete_game"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\complete_game.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\ab_solid_birdie.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\ab_texture_tile_birdie.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="add_player"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\add_player.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="complete_game"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\complete_game.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ab_solid_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\ab_solid_birdie.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ab_texture_tile_birdie"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\ab_texture_tile_birdie.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="add_player"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\add_player.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="complete_game"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\complete_game.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xxhdpi\ic_drawer.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_container"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\activity_container.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_games_list"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\fragment_games_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_game_detail"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\fragment_game_detail.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_game_detail_pager"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\fragment_game_detail_pager.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_play"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\fragment_play.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="game_list_row"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\game_list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="player_list_row"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\player_list_row.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="play_dialog_add_data"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\play_dialog_add_data.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="score_grid_item"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\score_grid_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="container"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\menu\container.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="game_detail"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\menu\game_detail.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="play"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\menu\play.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="review"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\menu\review.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values\colors.xml"
+                qualifiers="" >
+                <color name="bg_gray" >#cecbce
+                </color>
+                <color name="transparent" >#00000000
+                </color>
+                <color name="score_ace" >#cc0099cc
+                </color>
+                <color name="emphasis" >#33b5e5
+                </color>
+                <color name="score_bogey" >#330099cc
+                </color>
+                <color name="score_birdie" >#990099cc
+                </color>
+                <color name="score_par" >#660099cc
+                </color>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values\colors_birdie.xml"
+                qualifiers="" >
+                <color name="pressed_birdie" >#CC99CC00
+                </color>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="detail_scores" >Scores
+                </string>
+                <string name="play_dialog_complete_game_title" >Finish this game?
+                </string>
+                <string name="play_dialog_add_player_title" >Enter player name
+                </string>
+                <string name="nav_drawer_title" >Navigation
+                </string>
+                <string name="play_players" >Players
+                </string>
+                <string name="title_play_fragment" >Play
+                </string>
+                <string name="play_course" >Course
+                </string>
+                <string name="play_prev_hole" >Previous Hole
+                </string>
+                <string name="title_activity_game_detail_fragment" >GameDetail
+                </string>
+                <string name="play_dialog_cancel" >Cancel
+                </string>
+                <string name="play_dialog_ok" >OK
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="detail_player_total" >Total Score
+                </string>
+                <string name="detail_player_name" >Name
+                </string>
+                <string name="play_next_hole" >Next Hole
+                </string>
+                <string name="play_dialog_set_owner_title" >Enter your name
+                </string>
+                <string name="play_dialog_enter_course_title" >Enter course name
+                </string>
+                <string name="title_review_fragment" >Review
+                </string>
+                <string name="game_review_date" >Date Played
+                </string>
+                <string name="play_hole" >Hole
+                </string>
+                <string name="play_score" >Score
+                </string>
+                <string name="review_course" >Course
+                </string>
+                <string name="app_name" >Birdie
+                </string>
+                <string name="review_players" ># Players
+                </string>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="sectionHeader"
+                    parent="android:Widget.Holo.Light.TextView" >
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:drawableBottom">
+@drawable/section_header
+                    </item>
+                    <item name="android:drawablePadding">
+4dp
+                    </item>
+                    <item name="android:layout_marginTop">
+18dp
+                    </item>
+                    <item name="android:paddingLeft">
+16dp
+                    </item>
+                    <item name="android:paddingRight">
+16dp
+                    </item>
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:textColor">
+@color/emphasis
+                    </item>
+                    <item name="android:textSize">
+20sp
+                    </item>
+                </style>
+
+                <style
+                    name="StaticText"
+                    parent="BirdieText" >
+                    <item name="android:layout_marginTop">
+8dp
+                    </item>
+                    <item name="android:layout_marginLeft">
+16dp
+                    </item>
+                    <item name="android:layout_marginRight">
+16dp
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="ActionBar.Solid.Birdie"
+                    parent="@android:style/Widget.Holo.Light.ActionBar.Solid" >
+                    <item name="android:background">
+@drawable/ab_background_textured_birdie
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/ActionBar.Text
+                    </item>
+                </style>
+
+                <style
+                    name="ActionBar.Text"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" >
+                    <item name="android:textColor">
+#fff3f3f3
+                    </item>
+                    <item name="android:textSize">
+24dp
+                    </item>
+                </style>
+
+                <style
+                    name="BirdieText"
+                    parent="android:Widget.Holo.Light.TextView" >
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                    <item name="android:layout_width">
+wrap_content
+                    </item>
+                    <item name="android:textSize">
+18sp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+                    <item name="android:actionBarStyle">
+@style/ActionBar.Solid.Birdie
+                    </item>
+                </style>
+
+                <style
+                    name="ScoreText"
+                    parent="BirdieText" >
+                    <item name="android:minHeight">
+52dp
+                    </item>
+                    <item name="android:gravity">
+center
+                    </item>
+                </style>
+
+                <style name="scoreButton" >
+                    <item name="android:textColor">
+@color/score_button
+                    </item>
+                    <item name="android:background">
+@drawable/score_button
+                    </item>
+                    <item name="android:gravity">
+center_vertical|center
+                    </item>
+                    <item name="android:layout_width">
+48dp
+                    </item>
+                    <item name="android:layout_height">
+48dp
+                    </item>
+                    <item name="android:textSize">
+32sp
+                    </item>
+                </style>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+                </style>
+            </file>
+            <file
+                name="play_dialog_set_owner"
+                path="C:\Users\jared\workspace\Birdie\Birdie\src\main\res\layout\play_dialog_set_owner.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="C:\Users\jared\workspace\Birdie\Birdie\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\jared\workspace\Birdie\Birdie\src\debug\res" />
+    </dataSet>
+
+</merger>

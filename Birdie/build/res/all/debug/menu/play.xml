@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_hide">
+        <item android:id="@+id/play_add_player"
+              android:title="Add Player"
+              android:icon="@drawable/add_player"
+              android:showAsAction="always"/>
+        <item android:id="@+id/play_end_game"
+              android:title="End Game"
+              android:icon="@drawable/complete_game"
+              android:showAsAction="always"/>
+    </group>
+</menu>
+<!-- From: file:/C:/Users/jared/workspace/Birdie/Birdie/src/main/res/menu/play.xml -->

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="48dp">
+
+    <TextView
+        android:id="@+id/player_row_name"
+        style="@style/BirdieText"
+        android:layout_marginLeft="16dp"
+        android:layout_centerVertical="true"/>
+
+    <Button
+        android:id="@+id/player_decrease_score"
+        style="@style/scoreButton"
+        android:layout_toLeftOf="@+id/player_row_score"
+        android:text="-"/>
+
+    <TextView
+        android:id="@+id/player_row_score"
+        style="@style/BirdieText"
+        android:layout_width="24dp"
+        android:layout_toLeftOf="@+id/player_increase_score"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_centerVertical="true"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/player_increase_score"
+        style="@style/scoreButton"
+        android:text="+"
+        android:layout_alignParentRight="true"/>
+
+</RelativeLayout><!-- From: file:/C:/Users/jared/workspace/Birdie/Birdie/src/main/res/layout/player_list_row.xml -->
